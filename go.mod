@@ -1,4 +1,4 @@
-module netty_utils
+module github.com/Byfengfeng/netty_utils
 
 go 1.16
 
