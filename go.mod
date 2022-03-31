@@ -1,4 +1,4 @@
-module github.com/Byfengfeng/netty_utils
+module github.com/Byfengfeng/netty_poll
 
 go 1.16
 
